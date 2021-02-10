@@ -1,0 +1,135 @@
+<resources>
+    <string name="app_name">The Pop Culture Randomizer</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string-array name="array_popculture">
+        <item>Rick and Morty</item>
+        <item>Simpsons</item>
+        <item>Bojack Horseman</item>
+        <item>La Casa de Papel</item>
+        <item>Friends</item>
+        <item>How I Met Your Mother</item>
+        <item>Dragon Ball</item>
+        <item>Pokemon</item>
+        <item>Yu-Gi-Oh</item>
+        <item>Sakura Captor</item>
+        <item>Saint Seiya</item>
+        <item>Johnny Bravo</item>
+        <item>Courage the Cowardly Dog</item>
+        <item>Dexter\'s Lab</item>
+        <item>Powerpuff girls</item>
+        <item>Naruto</item>
+        <item>One Punch Man</item>
+        <item>Death Note</item>
+        <item>Fullmetal Alchemist</item>
+        <item>Attack on Titan</item>
+        <item>Super Mario</item>
+        <item>Adventure Time</item>
+        <item>Foster\'s Home for Imaginary Friends</item>
+        <item>Street Fighter</item>
+        <item>Mortal Kombat</item>
+        <item>Megaman</item>
+        <item>Pac Man</item>
+        <item>Irmão do Jorel</item>
+        <item>Matrix</item>
+        <item>Interstellar</item>
+        <item>The Last Airbender</item>
+        <item>Grey\'s Anatomy</item>
+        <item>Hannibal</item>
+        <item>Marco Polo</item>
+        <item>Alice in Wonderland</item>
+        <item>Mononoke Hime</item>
+        <item>Spirited Away</item>
+        <item>Tonari no Totoro</item>
+        <item>Black Mirror</item>
+        <item>Love Death Robots</item>
+        <item>Frankenstein</item>
+        <item>Dracula</item>
+        <item>Folklore</item>
+        <item>Star Wars</item>
+        <item>Lord of the Rings</item>
+        <item>Harry Potter</item>
+        <item>Looney Tunes</item>
+        <item>Marvel</item>
+        <item>DC</item>
+        <item>Animal Farm</item>
+        <item>God of War</item>
+        <item>Chavo Chapolim</item>
+        <item>Breaking Bad</item>
+        <item>James Bond</item>
+        <item>South Park</item>
+        <item>Futurama</item>
+        <item>Disenchantment</item>
+        <item>A Series of Unfortunate Events</item>
+        <item>Stranger Things</item>
+        <item>IT</item>
+        <item>The Walking Dead</item>
+        <item>The Witcher</item>
+        <item>Fresh Prince of Bel-Air</item>
+        <item>Prince of Persia</item>
+        <item>Shrek</item>
+        <item>Everybody Hates Chris</item>
+        <item>Bug Life</item>
+        <item>Power Rangers</item>
+        <item>Game of Thrones</item>
+        <item>Supernatural</item>
+        <item>Hunger Games</item>
+        <item>Wall-e</item>
+        <item>The Wizard of Oz</item>
+        <item>The Incredibles</item>
+        <item>Brooklyn 99</item>
+        <item>Pirates of the Caribbean</item>
+        <item>Scooby Doo</item>
+        <item>Toy Story</item>
+        <item>Home Alone</item>
+        <item>Robocop</item>
+        <item>Edward Scissorhands</item>
+        <item>Django Unchained</item>
+        <item>Cidade de Deus</item>
+        <item>The Big Bang Theory</item>
+        <item>Parasite</item>
+        <item>Titanic</item>
+        <item>Snow White</item>
+        <item>Dumbo</item>
+        <item>Cinderella</item>
+        <item>Peter Pan</item>
+        <item>Sleeping Beauty</item>
+        <item>101 Dalmatians</item>
+        <item>Winnie-the-Pooh</item>
+        <item>Popeye</item>
+        <item>Little Mermaid</item>
+        <item>Beauty and the Beast</item>
+        <item>Alladin</item>
+        <item>The Lion King</item>
+        <item>Pocahontas</item>
+        <item>The Hunchback of Notre Dame</item>
+        <item>Mulan</item>
+        <item>Tarzan</item>
+        <item>The Emperor’s New Groove</item>
+        <item>Monsters Inc.</item>
+        <item>Finding Nemo</item>
+        <item>The Chronicles of Narnia</item>
+        <item>Up!</item>
+        <item>Brave</item>
+        <item>Terminator</item>
+        <item>Sponge Bob</item>
+        <item>The Fairly Odd Parents</item>
+        <item>Gravity Falls</item>
+        <item>Pink and Brain</item>
+        <item>Tom and Jerry</item>
+        <item>Wacky Races</item>
+        <item>Garfield</item>
+        <item>X-Men</item>
+        <item>Sonic the Hedgehog</item>
+        <item>Vikings</item>
+        <item>Skyrim</item>
+        <item>Westworld</item>
+    </string-array>
+</resources>
